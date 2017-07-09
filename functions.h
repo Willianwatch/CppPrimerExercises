@@ -33,3 +33,7 @@ bool str_subrange(const string &str1, const string &str2);
 string make_plural(size_t ctr, const string &word, const string ending);
 
 const string &shorterString(const string &s1, const string &s2);
+
+string &shorterString(string &s1, string &s2);
+
+string make_plural(size_t ctr, const string &word, const string &ending);

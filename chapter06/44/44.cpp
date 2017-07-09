@@ -10,4 +10,4 @@ int main()
 {
     cout << (isShorter("hello", "world!")) << endl;
     return 0;
-}
+}   
